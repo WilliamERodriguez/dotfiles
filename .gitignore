@@ -1,0 +1,12 @@
+# Neovim swap files
+*.swp
+*.swo
+
+# Undo files
+*.un~
+
+# Logs
+*.logs
+
+# Folders created by plugins that shouldn't be in git
+.netrwhist
